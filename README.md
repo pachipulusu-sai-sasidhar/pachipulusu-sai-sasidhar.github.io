@@ -2,7 +2,8 @@
 
 ## Education Details:
 **College Name:** Sri Vasavi Engineering College
+
 **Branch:**Electronics and Communication Engineering
 
-#TRAINING
+***TRAINING***
 SOURCE CODE MANAGEMENT USING GIT AND GITHUB.
