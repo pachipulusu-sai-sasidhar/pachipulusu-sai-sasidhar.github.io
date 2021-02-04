@@ -7,3 +7,5 @@
 
 ***TRAINING***
 SOURCE CODE MANAGEMENT USING GIT AND GITHUB.
+
+I am a good artist.
