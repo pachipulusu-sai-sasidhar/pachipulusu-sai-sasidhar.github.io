@@ -1,2 +1,8 @@
-# pachipulusu-sai-sasidhar.github.io
-This is my website.
+# PACHIPULUSU-SAI-SASIDHAR
+
+## Education Details:
+**College Name:** Sri Vasavi Engineering College
+**Branch:**Electronics and Communication Engineering
+
+#TRAINING
+SOURCE CODE MANAGEMENT USING GIT AND GITHUB.
